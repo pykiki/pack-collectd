@@ -1,0 +1,27 @@
+{
+	"name": "collectd",
+	"types": ["pack"],
+	"version": "1.4",
+	"homepage": "https://github.com/shinken-monitoring/pack-collectd",
+	"author": "Jean Gabes",
+	"description": "Standard linux icolectd checks, like CPU, RAM and disk space. Checks are done by triggers on collectd data.",
+	"contributors": [
+	  {
+		"name": "Jean Gabes",
+		"email": "naparuba@gmail.com"
+	  },
+	  {
+		"name": "Imrane Dessai",
+		"email": "dessai.imrane@gmail.com"
+	  } 
+	],
+	"repository": "https://github.com/shinken-monitoring/pack-collectd",
+	"keywords": [
+	  "pack",
+	  
+	],
+	"dependencies": {
+	  "shinken": ">=1.4"
+	},
+	"license": "AGPL"
+}
