@@ -18,6 +18,7 @@
 	"repository": "https://github.com/shinken-monitoring/pack-collectd",
 	"keywords": [
 	  "pack",
+	  "collectd"
 	  
 	],
 	"dependencies": {
